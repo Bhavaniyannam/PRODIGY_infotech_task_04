@@ -43,7 +43,7 @@ Task - Build a personal portfolio website that showcases your skills, projects, 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Bhavaniyannam/PRODIGY_infotech_task_04.git
-````
+```
 
 2. Change into the project directory:
 
